@@ -1,0 +1,91 @@
+{
+  "Hewan": [
+    {
+      "question": "Apa bahasa Inggris dari kucing? 🐱",
+      "options": ["Dog", "Cat", "Bird"],
+      "answer": "Cat"
+    },
+    {
+      "question": "Which animal says moo? 🐄",
+      "options": ["Cow", "Duck", "Cat"],
+      "answer": "Cow"
+    }
+  ],
+  "Warna": [
+    {
+      "question": "What color is the banana? 🍌",
+      "options": ["Blue", "Yellow", "Red"],
+      "answer": "Yellow"
+    }
+  ],
+  "Buah": [
+    {
+      "question": "Apa bahasa Inggris dari jeruk? 🍊",
+      "options": ["Orange", "Banana", "Mango"],
+      "answer": "Orange"
+    }
+  ],
+  "Angka": [
+    {
+      "question": "What number comes after 2? 🔢",
+      "options": ["5", "3", "1"],
+      "answer": "3"
+    }
+  ],
+  "Sekolah": [
+    {
+      "question": "What do we use to write? ✏️",
+      "options": ["Pencil", "Shoes", "Plate"],
+      "answer": "Pencil"
+    }
+  ],
+  "Tubuh": [
+    {
+      "question": "We use this to see 👀",
+      "options": ["Eyes", "Feet", "Hands"],
+      "answer": "Eyes"
+    }
+  ],
+  "Keluarga": [
+    {
+      "question": "Father is called...? 👨",
+      "options": ["Brother", "Dad", "Sister"],
+      "answer": "Dad"
+    }
+  ],
+  "Cuaca": [
+    {
+      "question": "What shines in the sky? ☀️",
+      "options": ["Sun", "Fish", "Book"],
+      "answer": "Sun"
+    }
+  ],
+  "Transportasi": [
+    {
+      "question": "Which one can fly? ✈️",
+      "options": ["Airplane", "Bicycle", "Boat"],
+      "answer": "Airplane"
+    }
+  ],
+  "Makanan": [
+    {
+      "question": "Which one is pizza? 🍕",
+      "options": ["Pizza", "Soap", "Bag"],
+      "answer": "Pizza"
+    }
+  ],
+  "Aktivitas sehari-hari": [
+    {
+      "question": "What do you do before sleeping? 😴",
+      "options": ["Sleep", "Swim", "Drive"],
+      "answer": "Sleep"
+    }
+  ],
+  "Greeting": [
+    {
+      "question": "What do you say in the morning? 🌞",
+      "options": ["Good Morning", "Good Night", "Bye Bye"],
+      "answer": "Good Morning"
+    }
+  ]
+}
